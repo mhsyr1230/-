@@ -1,0 +1,10 @@
+C:\Users\mohamed\source\repos\dolar\dolar\obj\Debug\dolar.csprojAssemblyReference.cache
+C:\Users\mohamed\source\repos\dolar\dolar\obj\Debug\dolar.Form1.resources
+C:\Users\mohamed\source\repos\dolar\dolar\obj\Debug\dolar.Properties.Resources.resources
+C:\Users\mohamed\source\repos\dolar\dolar\obj\Debug\dolar.csproj.GenerateResource.cache
+C:\Users\mohamed\source\repos\dolar\dolar\obj\Debug\dolar.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\dolar\dolar\bin\Debug\dolar.exe.config
+C:\Users\mohamed\source\repos\dolar\dolar\bin\Debug\dolar.exe
+C:\Users\mohamed\source\repos\dolar\dolar\bin\Debug\dolar.pdb
+C:\Users\mohamed\source\repos\dolar\dolar\obj\Debug\dolar.exe
+C:\Users\mohamed\source\repos\dolar\dolar\obj\Debug\dolar.pdb
